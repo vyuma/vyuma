@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+これは、私のリポジトリです。
+
 <!--
 **vyuma/vyuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
