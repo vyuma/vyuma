@@ -1,6 +1,5 @@
 # Full Stack Developer in Japan👋
 ### Just 22 years old 
-### Feel free to contact me anytime!👍
 #
 ![vyuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyuma&show_icons=true&theme=vue-dark)
 
